@@ -22,7 +22,7 @@ Doruk Cakmakci, Emin Onur Karakaslar, Elisa Ruhland, Marie-Pierre Chenard, Franc
 - [shap](https://github.com/slundberg/shap)
 
 ## Getting Started
- - Create **/data** and **/lib** folders.
+ - Create **/data**, **/data/folds/** and **/lib** folders.
  - Download and Extract the dataset as a subdirectory of **/data** folder
  - Download and save Supplementary Table 1 to **/data** folder. Rename the file to _supplement.xls_
  - Install dependencies. If an Ubuntu machine with GPU is used, dependencies may be installed by creating a conda environment using _ubuntu\_environment.yml_ file and installing _shap_  dependency using conda.
